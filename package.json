@@ -1,0 +1,17 @@
+{
+  "name": "email-assistant",
+  "version": "1.0.0",
+  "description": "智能邮件管理、自动回复、重要邮件提醒 | Nexa Claw - https://nexaclaw.cn/",
+  "author": {
+    "name": "Nexa Claw",
+    "email": "nexaclaw@outlook.com",
+    "url": "https://nexaclaw.cn/"
+  },
+  "homepage": "https://nexaclaw.cn/",
+  "license": "MIT",
+  "keywords": ["email-assistant", "Nexa Claw", "AI", "automation"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nexaclaw/email-assistant"
+  }
+}
