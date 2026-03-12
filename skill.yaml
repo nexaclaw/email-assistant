@@ -1,0 +1,18 @@
+skill:
+  id: email-assistant
+  name: 📧 邮件助手
+  version: "1.0.0"
+  
+description: |
+  智能邮件管理、自动回复、重要邮件提醒
+  
+  Powered by Nexa Claw - https://nexaclaw.cn/
+
+trigger_phrases:
+  - email-assistant
+  - 📧 邮件助手
+
+metadata:
+  author: Nexa Claw
+  website: https://nexaclaw.cn/
+  email: nexaclaw@outlook.com
